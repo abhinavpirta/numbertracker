@@ -1,6 +1,6 @@
 import phonenumbers
 from phonenumbers import geocoder
-Key = "462a8c3949e94459b7804dea2f7f8883"
+Key = "Enter a geocode api key"
 import folium
 
 
